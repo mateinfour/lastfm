@@ -3,4 +3,7 @@ jupyter
 numpy
 scikit-learn
 matplotlib
+beautifulsoup
+progressbar2
+pylast
 -e git+https://github.com/gauravmm/jupyter-testing.git#egg=jupyter-testing
