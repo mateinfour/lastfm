@@ -1,0 +1,6 @@
+
+jupyter
+numpy
+scikit-learn
+matplotlib
+-e git+https://github.com/gauravmm/jupyter-testing.git#egg=jupyter-testing
